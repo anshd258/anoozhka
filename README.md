@@ -4,7 +4,7 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: VUE JS / REACT / ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) / HTML / CSS
 
 - 🔭 I’m currently working on blog creation in IEEE 
 - 🌱 I’m currently learning web devlopment 
